@@ -1,21 +1,17 @@
-# :skull: Scaffolding Node.js :skull:
-
-## :thought_balloon: What is it?
-
-This is scaffolding for Node.js projects.
+# :skull: Tempate for Nodejs Projects :skull:
 
 ## :checkered_flag: How to start?
 
 -   Install Node.js 18, go to [NVM](https://github.com/nvm-sh/nvm#git-install) for installation NVM.
 
 ```shell
-nvm install 18
+nvm install 20 --lts
 ```
 
 -   Clone this repository
 
 ```shell
-git clone https://github.com/sandersgutierrez/scaffolding-nodejs.git
+git clone https://github.com/untalsanders/node-basic-template.git
 ```
 
 -   Run application
@@ -26,7 +22,7 @@ npm start
 
 ## :man_technologist: Author
 
--   [Sanders Gutiérrez](https://sandersgutierrez.github.io) - Software Engineer
+-   [Sanders Gutiérrez](https://untalsanders.github.io) - Software Engineer
 
 ## :unlock: License
 

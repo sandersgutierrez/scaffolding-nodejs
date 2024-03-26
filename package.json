@@ -1,7 +1,7 @@
 {
-    "name": "scaffolding-nodejs",
+    "name": "node-basic-template",
     "version": "0.0.0",
-    "description": "This is scaffolding for Node.js projects.",
+    "description": "This is tempate for nodejs projects.",
     "private": "true",
     "type": "module",
     "scripts": {
@@ -12,19 +12,19 @@
         "lint": "eslint --fix . --ext .js"
     },
     "keywords": [],
-    "author": "Sanders Gutiérrez <ing.sanders@gmail.com> (https://sandersgutierrez.github.io/)",
+    "author": "Sanders Gutiérrez <ing.sanders@gmail.com> (https://untalsanders.github.io/)",
     "license": "MIT",
     "devDependencies": {
-        "@commitlint/cli": "17.7.2",
-        "@commitlint/config-conventional": "17.7.0",
-        "eslint": "8.50.0",
-        "husky": "8.0.3",
-        "lint-staged": "14.0.1",
-        "nodemon": "3.0.1",
-        "prettier": "3.0.3"
+        "@commitlint/cli": "19.2.1",
+        "@commitlint/config-conventional": "19.1.0",
+        "eslint": "8.57.0",
+        "husky": "9.0.11",
+        "lint-staged": "15.2.2",
+        "nodemon": "3.1.0",
+        "prettier": "3.2.5"
     },
     "engines": {
-        "node": ">=18",
+        "node": ">=20",
         "npm": ">=9"
     }
 }
